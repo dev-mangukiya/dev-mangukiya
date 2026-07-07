@@ -39,4 +39,4 @@ Git • GitHub • VS Code • Power BI
 
 ## 📫 Connect With Me
 
-LinkedIn: Add your LinkedIn link here
+LinkedIn: linkedin.com/devmangukiya
