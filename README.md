@@ -1,4 +1,4 @@
-# Hi, I'm Dev Mangukiya 👋
+ō# Hi, I'm Dev Mangukiya 👋
 
 🎓 B.Tech Artificial Intelligence & Data Science Undergraduate  
 💻 Software Development Intern  
@@ -39,4 +39,4 @@ Git • GitHub • VS Code • Power BI
 
 ## 📫 Connect With Me
 
-LinkedIn: linkedin.com/devmangukiya
+LinkedIn: [devmangukiya](https://www.linkedin.com/in/devmangukiya)
